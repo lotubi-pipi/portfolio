@@ -1,0 +1,85 @@
+body{
+    /* border:1px solid red; */
+    height:100vh;
+    margin: 0;
+    color: white;
+    background-color: rgb(1, 1, 29);
+    font-family: sans-serif;
+}
+header{
+    text-align: center;
+    /* border:2px solid gray; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ 
+
+}
+
+header img{
+    width: 15rem;
+    object-fit: cover;
+    border-radius: 150px;
+}
+.bio{
+    /* border: 1px solid green; */
+}
+#pro-pic{
+    /* border: 2px solid red; */
+}
+header span{
+    color: blueviolet; 
+}
+hr{
+    color: white;
+    
+}
+footer{
+
+    border: 2px solid yellow;
+    display: flex;
+    justify-content: space-between;
+}
+
+.media{
+    border: 2px solid green;
+}
+.address{
+    border:2px solid gray;
+}
+project-section{
+    margin-bottom: 100px;
+}
+.project-heading{
+    text-align: center;
+    padding: 20px 0;
+    font-weight: bold;
+    font-size: xx-large;
+}
+section{
+    border: 2px solid purple;
+}
+.project1{
+    border: 2px solid purple;
+    border-radius: 20px;
+}
+.projects{
+display: flex;
+gap:50px;
+margin: 30px;
+text-align: center;
+font-size: 30px;
+}
+button{
+    color: yellow;
+    font-size: larger;
+    background-color: black;
+}
+    
+border-radius: 20px;}
+h2{
+    color: yellow;
+}
